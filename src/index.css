@@ -17,12 +17,12 @@ code {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding-top: 20px;
-  gap: 20px;
+  padding-top: 10px;
+  gap: 5px;
 }
 
 .rules {
   max-width: 600px;
   text-align: center;
-  line-height: 30px;
+  line-height: 25px;
 }

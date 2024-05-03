@@ -7,12 +7,11 @@ import star from '../../assets/star.png';
 import obstacle from '../../assets/obstacle.png';
 
 const sizes = {
-    width: 700,
-    height: 700,
+    width: 800,
+    height: 800,
 };
 
 const speedDown = 300;
-const numStars = 3;
 export class Game extends Scene {
 
 
