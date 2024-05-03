@@ -1,7 +1,7 @@
 {
   "name": "Phaser Game Demo",
   "version": "0.1.0",
-  "homepage": "https://hanhdoan1999.github.io/test-deploy",
+  "homepage": "https://hanhdoan1999.github.io/phaser-star-catcher",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
