@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/phaser-star-catcher/static/css/main.a751addd.css",
-    "main.js": "/phaser-star-catcher/static/js/main.16f4db76.js",
-    "static/media/bg1.png": "/phaser-star-catcher/static/media/bg1.a7a33ed2da02ac04507c.png",
-    "static/media/basket.png": "/phaser-star-catcher/static/media/basket.306948e4140d5e72e935.png",
-    "index.html": "/phaser-star-catcher/index.html",
-    "main.a751addd.css.map": "/phaser-star-catcher/static/css/main.a751addd.css.map",
-    "main.16f4db76.js.map": "/phaser-star-catcher/static/js/main.16f4db76.js.map"
+    "main.css": "/phaser-star-catcher-game/static/css/main.7bf5d149.css",
+    "main.js": "/phaser-star-catcher-game/static/js/main.91279277.js",
+    "static/media/bg1.png": "/phaser-star-catcher-game/static/media/bg1.a7a33ed2da02ac04507c.png",
+    "static/media/basket.png": "/phaser-star-catcher-game/static/media/basket.306948e4140d5e72e935.png",
+    "index.html": "/phaser-star-catcher-game/index.html",
+    "main.7bf5d149.css.map": "/phaser-star-catcher-game/static/css/main.7bf5d149.css.map",
+    "main.91279277.js.map": "/phaser-star-catcher-game/static/js/main.91279277.js.map"
   },
   "entrypoints": [
-    "static/css/main.a751addd.css",
-    "static/js/main.16f4db76.js"
+    "static/css/main.7bf5d149.css",
+    "static/js/main.91279277.js"
   ]
 }
