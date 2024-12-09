@@ -6,7 +6,7 @@ import { Game } from './scenes/Game';
 const config = {
     type: Phaser.WEBGL,
     width: 800,
-    height: 800,
+    height: 650,
     parent: 'game-container',
     backgroundColor: '#028af8',
     physics: {

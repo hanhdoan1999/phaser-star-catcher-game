@@ -8,7 +8,7 @@ import obstacle from '../../assets/obstacle.png';
 
 const sizes = {
     width: 800,
-    height: 800,
+    height: 650,
 };
 
 const speedDown = 300;
